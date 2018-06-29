@@ -1,5 +1,5 @@
 
-# Machine Learning Engineer Nanodegree
+# Boston Housing Project
 
 
 ### Project Description
